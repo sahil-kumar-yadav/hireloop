@@ -1,1 +1,1 @@
-# videoapp
+npm install @clerk/nextjs @monaco-editor/react @radix-ui/react-avatar @radix-ui/react-dialog @radix-ui/react-dropdown-menu @radix-ui/react-label @radix-ui/react-scroll-area @radix-ui/react-select @radix-ui/react-slot @radix-ui/react-switch @stream-io/node-sdk @stream-io/video-react-sdk class-variance-authority clsx convex date-fns lucide-react next next-themes react react-day-picker react-dom react-hot-toast react-resizable-panels svix tailwind-merge tailwindcss-animate
